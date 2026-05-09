@@ -27,7 +27,6 @@ TicTacToeAI/
 │
 ├── main.py
 ├── ai.py
-└── README.md
 ```
 
 ---
